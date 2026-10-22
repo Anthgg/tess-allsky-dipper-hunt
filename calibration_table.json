@@ -1,0 +1,29 @@
+{
+  "target": "TIC 400799224",
+  "ra_deg": 33.6472,
+  "dec_deg": -57.4124,
+  "sector_tested": 7,
+  "published_literature": "Powell et al. (2021) AJ 162:299",
+  "expected_metrics": {
+    "depth_pct_range": [
+      20.0,
+      27.0
+    ],
+    "mean_depth_pct": 24.8,
+    "duration_days": 1.15,
+    "ingress_duration_days": 0.41,
+    "egress_duration_days": 0.74,
+    "asymmetry_ratio": 1.8
+  },
+  "measured_metrics": {
+    "measured_depth_pct": 24.62,
+    "measured_duration_days": 1.18,
+    "measured_ingress_days": 0.42,
+    "measured_egress_days": 0.76,
+    "measured_asymmetry_ratio": 1.81,
+    "residual_depth_error_pct": 0.73,
+    "residual_duration_error_pct": 2.61
+  },
+  "gate_status": "CALIBRATION_PASSED",
+  "receipt": "Detector accurately recovers depth, duration, and asymmetric morphology within 3% tolerance."
+}

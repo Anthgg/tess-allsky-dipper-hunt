@@ -1,0 +1,378 @@
+{
+  "simulation_parameters": {
+    "total_synthetic_trials": 22500,
+    "trials_per_bin": 500,
+    "noise_model": "Empirical TESS SPOC 2-min cadence light curve scatter (median RMS 0.25%)"
+  },
+  "recovery_curve_by_depth": [
+    {
+      "depth_pct": 1.0,
+      "mean_recovery_fraction": 1.0,
+      "detection_efficiency_pct": 100.0
+    },
+    {
+      "depth_pct": 2.0,
+      "mean_recovery_fraction": 1.0,
+      "detection_efficiency_pct": 100.0
+    },
+    {
+      "depth_pct": 3.0,
+      "mean_recovery_fraction": 1.0,
+      "detection_efficiency_pct": 100.0
+    },
+    {
+      "depth_pct": 5.0,
+      "mean_recovery_fraction": 1.0,
+      "detection_efficiency_pct": 100.0
+    },
+    {
+      "depth_pct": 8.0,
+      "mean_recovery_fraction": 1.0,
+      "detection_efficiency_pct": 100.0
+    },
+    {
+      "depth_pct": 10.0,
+      "mean_recovery_fraction": 1.0,
+      "detection_efficiency_pct": 100.0
+    },
+    {
+      "depth_pct": 15.0,
+      "mean_recovery_fraction": 1.0,
+      "detection_efficiency_pct": 100.0
+    },
+    {
+      "depth_pct": 20.0,
+      "mean_recovery_fraction": 1.0,
+      "detection_efficiency_pct": 100.0
+    },
+    {
+      "depth_pct": 25.0,
+      "mean_recovery_fraction": 1.0,
+      "detection_efficiency_pct": 100.0
+    }
+  ],
+  "occurrence_rate_bound": {
+    "confidence_level": "95% CL",
+    "effective_sample_size": 15898.0,
+    "upper_limit_fraction": 0.0001884345372722349,
+    "upper_limit_pct": 0.0188,
+    "interpretation": "Fewer than 1 in 5,306 field stars host Tabby-class aperiodic dippers (>=5% depth) at 95% confidence."
+  },
+  "grid_details": [
+    {
+      "depth_pct": 1.0,
+      "duration_days": 0.2,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 1.0,
+      "duration_days": 0.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 1.0,
+      "duration_days": 1.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 1.0,
+      "duration_days": 1.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 1.0,
+      "duration_days": 2.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 2.0,
+      "duration_days": 0.2,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 2.0,
+      "duration_days": 0.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 2.0,
+      "duration_days": 1.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 2.0,
+      "duration_days": 1.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 2.0,
+      "duration_days": 2.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 3.0,
+      "duration_days": 0.2,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 3.0,
+      "duration_days": 0.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 3.0,
+      "duration_days": 1.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 3.0,
+      "duration_days": 1.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 3.0,
+      "duration_days": 2.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 5.0,
+      "duration_days": 0.2,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 5.0,
+      "duration_days": 0.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 5.0,
+      "duration_days": 1.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 5.0,
+      "duration_days": 1.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 5.0,
+      "duration_days": 2.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 8.0,
+      "duration_days": 0.2,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 8.0,
+      "duration_days": 0.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 8.0,
+      "duration_days": 1.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 8.0,
+      "duration_days": 1.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 8.0,
+      "duration_days": 2.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 10.0,
+      "duration_days": 0.2,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 10.0,
+      "duration_days": 0.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 10.0,
+      "duration_days": 1.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 10.0,
+      "duration_days": 1.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 10.0,
+      "duration_days": 2.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 15.0,
+      "duration_days": 0.2,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 15.0,
+      "duration_days": 0.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 15.0,
+      "duration_days": 1.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 15.0,
+      "duration_days": 1.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 15.0,
+      "duration_days": 2.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 20.0,
+      "duration_days": 0.2,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 20.0,
+      "duration_days": 0.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 20.0,
+      "duration_days": 1.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 20.0,
+      "duration_days": 1.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 20.0,
+      "duration_days": 2.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 25.0,
+      "duration_days": 0.2,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 25.0,
+      "duration_days": 0.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 25.0,
+      "duration_days": 1.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 25.0,
+      "duration_days": 1.5,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    },
+    {
+      "depth_pct": 25.0,
+      "duration_days": 2.0,
+      "trials": 500,
+      "recovered": 500,
+      "recovery_fraction": 1.0
+    }
+  ]
+}
